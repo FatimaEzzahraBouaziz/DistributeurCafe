@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\source\\repos\\DistributeurCafe\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F4BC7578-4661-4855-B555-025430B888BF}|DistributeurCafe\\DistributeurCafe.csproj|c:\\users\\user\\source\\repos\\distributeurcafe\\distributeurcafe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4BC7578-4661-4855-B555-025430B888BF}|DistributeurCafe\\DistributeurCafe.csproj|solutionrelative:distributeurcafe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4BC7578-4661-4855-B555-025430B888BF}|DistributeurCafe\\DistributeurCafe.csproj|c:\\users\\user\\source\\repos\\distributeurcafe\\distributeurcafe\\model\\ingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4BC7578-4661-4855-B555-025430B888BF}|DistributeurCafe\\DistributeurCafe.csproj|solutionrelative:distributeurcafe\\model\\ingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ingredient.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\DistributeurCafe\\DistributeurCafe\\Model\\Ingredient.cs",
+              "RelativeDocumentMoniker": "DistributeurCafe\\Model\\Ingredient.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\DistributeurCafe\\DistributeurCafe\\Model\\Ingredient.cs",
+              "RelativeToolTip": "DistributeurCafe\\Model\\Ingredient.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T22:36:28.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\DistributeurCafe\\DistributeurCafe\\Program.cs",
+              "RelativeDocumentMoniker": "DistributeurCafe\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\DistributeurCafe\\DistributeurCafe\\Program.cs",
+              "RelativeToolTip": "DistributeurCafe\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T22:35:26.639Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\USER\source\repos\DistributeurCafe\DistributeurCafe\bin\Debug\net8.0\DistributeurCafe.exe
+C:\Users\USER\source\repos\DistributeurCafe\DistributeurCafe\bin\Debug\net8.0\DistributeurCafe.deps.json
+C:\Users\USER\source\repos\DistributeurCafe\DistributeurCafe\bin\Debug\net8.0\DistributeurCafe.runtimeconfig.json
+C:\Users\USER\source\repos\DistributeurCafe\DistributeurCafe\bin\Debug\net8.0\DistributeurCafe.dll
+C:\Users\USER\source\repos\DistributeurCafe\DistributeurCafe\bin\Debug\net8.0\DistributeurCafe.pdb
+C:\Users\USER\source\repos\DistributeurCafe\DistributeurCafe\obj\Debug\net8.0\DistributeurCafe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\DistributeurCafe\DistributeurCafe\obj\Debug\net8.0\DistributeurCafe.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\DistributeurCafe\DistributeurCafe\obj\Debug\net8.0\DistributeurCafe.AssemblyInfo.cs
+C:\Users\USER\source\repos\DistributeurCafe\DistributeurCafe\obj\Debug\net8.0\DistributeurCafe.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\DistributeurCafe\DistributeurCafe\obj\Debug\net8.0\DistributeurCafe.dll
+C:\Users\USER\source\repos\DistributeurCafe\DistributeurCafe\obj\Debug\net8.0\refint\DistributeurCafe.dll
+C:\Users\USER\source\repos\DistributeurCafe\DistributeurCafe\obj\Debug\net8.0\DistributeurCafe.pdb
+C:\Users\USER\source\repos\DistributeurCafe\DistributeurCafe\obj\Debug\net8.0\DistributeurCafe.genruntimeconfig.cache
+C:\Users\USER\source\repos\DistributeurCafe\DistributeurCafe\obj\Debug\net8.0\ref\DistributeurCafe.dll
