@@ -1,10 +1,11 @@
 ﻿using DistributeurCafe.Model;
 using DistributeurCafe.Services;
-using System.Globalization;
 using Xunit;
 
 
-
+/// <summary>
+/// Classe pur le test 
+/// </summary>
 public class OrderDrinkServiceTests
 {
     [Fact]
@@ -12,7 +13,7 @@ public class OrderDrinkServiceTests
     {
         // Arrange
         var orderService = new OrderDrinkService();
-        // Utilisez une recette existante dans le dictionnaire pour le test
+        // On utilise une recette existante dans le dictionnaire pour le test
         var expressoRecipe = RecipeDictionary.Recipes["Expresso"];
 
         // Act
